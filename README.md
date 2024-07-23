@@ -5,7 +5,8 @@
 
 ### 详细设计与实现
 
-![whiteboard_exported_image](D:\download\whiteboard_exported_image.png)
+![whiteboard_exported_image](https://github.com/user-attachments/assets/32fbe017-b220-4f42-9f42-d7fa67033b14)
+
 
 - 输入对齐和裁剪后的人脸图像：输入通过MTCNN检测并对齐、裁剪后的人脸图像。
 - FaceNet模型：
